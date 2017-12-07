@@ -1,8 +1,5 @@
 {
   "name": "bins-api",
-  "proxy": {
-    "retry": false
-  },
   "lambda": {
     "memory": 2560
   },
