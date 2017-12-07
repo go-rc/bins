@@ -1,0 +1,13 @@
+{
+  "name": "bins-api",
+  "proxy": {
+    "retry": false
+  },
+  "lambda": {
+    "memory": 2560
+  },
+  "proxy": {
+    "retry": false,
+    "timeout": 25
+  }
+}

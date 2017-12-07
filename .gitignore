@@ -1,0 +1,7 @@
+.envrc
+go/test
+go/pkg
+go/src
+go/misc
+go/blog
+go/doc
