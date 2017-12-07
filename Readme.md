@@ -13,6 +13,8 @@ The initial build may take 10-15s, however subsequent requests are cached by Clo
 
 This project is just conceptual for now, but it would be nice to provide it as a free service at some point when money is not a concern (CDN data transfer for large assets is expensive). Security concerns would have to be addressed as well.
 
+In general I feel that we have the necessary information and tooling to make this kind of a thing a reality (and perfectly secure), while taking the burden away from the program author.
+
 ---
 
 [![GoDoc](https://godoc.org/github.com/apex/bins?status.svg)](https://godoc.org/github.com/apex/bins)
