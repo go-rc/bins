@@ -1,6 +1,6 @@
 # Bins
 
-Bins is a small [Up](https://github.com/apex/up) application for building Golang binaries on-demand, allowing people to install open-source Go programs without installing Go, and without requiring the author to provide cross-compiled binaries.
+Bins is a small [Up](https://github.com/apex/up) app for serving Golang binaries cross-compiled on-demand. Consumers of your program do not need Go installed, nor do you need to cross-compile binaries for each release and platform.
 
 Here's an example using [node-prune](https://github.com/tj/node-prune):
 
